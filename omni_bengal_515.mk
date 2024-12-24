@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/lenovo/bengal_515/device.mk)
 
 PRODUCT_DEVICE := bengal_515
-PRODUCT_NAME := omni_bengal_515
+PRODUCT_NAME := twrp_bengal_515
 PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := TB331FC
 PRODUCT_MANUFACTURER := lenovo
